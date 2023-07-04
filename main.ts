@@ -50,7 +50,7 @@ let kovacsek = false
 let sor = 0
 let oszlop = 0
 let vanaram = false
-vanaram = false
+vanaram = true
 basic.forever(function () {
     if (vanaram) {
         aramos()
